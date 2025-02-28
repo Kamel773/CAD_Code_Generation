@@ -14,7 +14,13 @@ We introduce CADCodeVerify, a novel approach to iteratively verify and improve 3
 ![Example Image](https://github.com/Kamel773/CAD_Code_Generation/blob/main/CADCodeVerify.png?raw=true)
 
 ## 2. *CADPrompt* dataset
-We introduce a new benchmark, *CADPrompt*, featuring 200 3D objects represented in the Standard Triangle Language (STL) format. Each sample includes: (I) the 3D object in STL format sourced from DeepCAD[1], (II) a language-based description of the 3D object, (III) the 3D object in OBJ format, detailing vertices, faces, and edges in standard 3D geometry, and (IV) a .json file containing the CAD commands and their parameters.
+We introduce a new benchmark, **CADPrompt**, featuring 200 3D objects represented in the Standard Triangle Language (**STL**) format. Each sample includes:
+
+1. **The 3D object in STL format** sourced from DeepCAD [1].
+2. **A language-based description** of the 3D object.
+3. **The 3D object in OBJ format**, detailing vertices, faces, and edges in standard 3D geometry.
+4. **A `.json` file** containing the CAD commands and their parameters.
+5. **The Python code** that generates the 3D object, written by a CAD design expert.
 
 ### Statistics of the *CADPrompt* dataset
 
