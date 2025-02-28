@@ -1,6 +1,6 @@
 <div align="center">
 
-# Generating CAD Code with Vision-Language Models for 3D Designs: |[Paper](https://arxiv.org/pdf/2410.05340)|
+# Generating CAD Code with Vision-Language Models for 3D Designs: |[Paper](https://openreview.net/pdf?id=BLWaTeucYX)|
 </div>
 
 # Contribution
