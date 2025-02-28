@@ -11,7 +11,7 @@
 ## 1. CADCodeVerify approach
 We introduce CADCodeVerify, a novel approach to iteratively verify and improve 3D objects generated from CAD code. Our approach works by producing ameliorative feedback by prompting a Vision-Language Model (VLM) to generate and answer a set of validation questions to verify the generated object and prompt the VLM to correct deviations.
 
-![Example Image](https://ggithub.com/Kamel773/CAD_Code_Generation/blob/main/CADCodeVerify.png?raw=true)
+![Example Image](https://github.com/Kamel773/CAD_Code_Generation/blob/main/CADCodeVerify.png?raw=true)
 
 ## 2. *CADPrompt* dataset
 We introduce a new benchmark, *CADPrompt*, featuring 200 3D objects represented in the Standard Triangle Language (STL) format. Each sample includes: (I) the 3D object in STL format sourced from DeepCAD[1], (II) a language-based description of the 3D object, (III) the 3D object in OBJ format, detailing vertices, faces, and edges in standard 3D geometry, and (IV) a .json file containing the CAD commands and their parameters.
