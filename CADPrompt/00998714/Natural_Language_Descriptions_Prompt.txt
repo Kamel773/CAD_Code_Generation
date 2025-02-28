@@ -1,0 +1,1 @@
+Write Python code using CADQuery to create a triangular 3D object. First, draw a sketch of an equilateral triangle, pointing downwards. Next, cutout a semicircle from the bottom corner of the triangle. The diameter of this semicircular cutout should be approximately 2/3rd of the length of each side of the triangle. Finally, extrude this sketch to create a 3D object. 

@@ -1,0 +1,5 @@
+Write Python code using CADQuery to create a 3D model of a complex part that includes a base box with dimensions 1.10769 units in length, 0.474725 units in width, and 0.18989 units in height. On top of this base, add a cylindrical shape with a diameter of approximately half the length of the base and a height equal to the width of the base. This cylinder should be positioned such that it partially protrudes from the base. Additionally, include a connector box with the same diameter and half the height of the cylinder, aligned centrally on top of the cylinder.
+
+Further, subtract an inner cylinder and an inner box from the assembly where the inner cylinder has a diameter of 0.194358 units. The inner box should have dimensions equal to the diameter of the inner cylinder and should be positioned to cut through the center of the cylinder and connector.
+
+Finally, add an arm shaped like a polyline defined by points [(0, 0.316484), (-0.056, 0.483119), (length/2, 0.613244), (length/2, .434708)] and extrude this shape along the width of the base. Rotate and translate the entire assembly to align and position it as required.

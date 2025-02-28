@@ -1,0 +1,2 @@
+ 
+Write Python code using CADQuery to create a rectangular pipe. Begin by creating a sketch of a square in the X-Z plane and extrude it along the Y-axis. Next, create a sketch of a slightly smaller square in the X-Z plane, centered at the same point as the original square. Extrude this smaller square negatively along the Y-axis to create a hole in the original extrusion.

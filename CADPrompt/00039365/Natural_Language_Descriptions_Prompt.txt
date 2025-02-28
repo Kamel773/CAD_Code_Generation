@@ -1,0 +1,1 @@
+Write Python code using CADQuery to create a complex 3D object. Begin by sketching a parallelogram and extruding it. Then, draw a square inside this extruded parallelogram. Following that, negatively extrude the square (remove material) to create a square-shaped hole going through the extruded parallelogram.

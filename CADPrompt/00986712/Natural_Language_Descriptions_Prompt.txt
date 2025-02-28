@@ -1,0 +1,1 @@
+Write Python code using CADQuery to create a 3D object. First, create a sketch of a rectangle. Next, round two corners of the same long edge on the rectangle, and then extrude this sketch. Finally, create two small, evenly-spaced circular holes on the same side as the rounded corners. Each of these holes should be close to one of the rounded corners.

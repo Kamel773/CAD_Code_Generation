@@ -1,0 +1,2 @@
+ 
+Write Python code using CADQuery to createan object that resembles a pillar. Start by creating a square at the bottom on the X-Z plane. Extrude this square by a small amount along the Y axis. Next draw a sketch of a small rectangle centered at the same location as the square with the same length of the square but around half its width. Extrude this smaller rectangle by a very large amount along the Y-axis to resemble a pillar. 

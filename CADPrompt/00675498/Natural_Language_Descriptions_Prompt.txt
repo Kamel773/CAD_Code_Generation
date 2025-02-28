@@ -1,0 +1,1 @@
+Write Python code using CADQuery to create a tiered 3D object. First, create a sketch of a rectangle, where the smaller sides are approximately half the size of the larger side. Next, create a right trapezoid, and connect the longer base to one end of the rectangle. Finally, extrude this entire sketch to create a tiered, rectangular object. 

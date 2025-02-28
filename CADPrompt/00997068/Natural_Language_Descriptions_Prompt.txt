@@ -1,0 +1,1 @@
+Write Python code using CADQuery to create a rectangular object. First, create a sketch of a very long rectangle and slightly extrude it. Next, create a small rectangular cutout in the original object towards the bottom right side of the original rectangular object. This cutout should be about 1/4th the length of the original shape.

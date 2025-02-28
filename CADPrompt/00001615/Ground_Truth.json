@@ -1,0 +1,17 @@
+{
+    "Ground_Truth": {
+        "Number_of_Faces": 222,
+        "Number_of_Unique_Edges": 333,
+        "Number_of_Vertices": 113,
+        "Width_mm": 0.6,
+        "Height_mm": 0.6,
+        "Depth_mm": 1.5,
+        "Bounding_Box_Center": "Vector (0.0, 0.0, 0.0)",
+        "Aspect_Ratio_XY": 1.0,
+        "Aspect_Ratio_XZ": 0.4,
+        "Aspect_Ratio_YZ": 0.4,
+        "Is_Solid": true,
+        "Volume_cubic_mm": 0.3923,
+        "Surface_Area_square_mm": 3.32093
+    }
+}

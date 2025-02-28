@@ -1,0 +1,2 @@
+ 
+Write Python code using CADQuery to create an object that follows the profile of a taut bike chain. Create the sketch by drawing two circles, one large and one small, separated by a distance approximately equal to the diameter of the larger circle. Then join these two circles using two lines that are tangent to both circles. Extrude the resulting closed shape sketch to obtain the desired object.

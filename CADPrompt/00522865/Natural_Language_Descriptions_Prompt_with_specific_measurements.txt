@@ -1,0 +1,8 @@
+Write Python code using CADQuery to create a 3D model with the following specifications:
+
+1. Start by creating a rectangular base with dimensions 1.5 units in length, 1.2 units in width, and 0.147638 units in height.
+2. In the center of this base, cut out a rectangular hollow that is 0.975 units in length, 0.675 units in width, and 0.11811 units in depth.
+3. On top of the base, centered, add a second rectangle that is 1.25274 units in length, 0.982742 units in width, and 0.041339 units in height.
+4. On top of the second rectangle, at its center, place a third rectangle that is 0.059055 units in length, 0.11811 units in width, and 0.088583 units in height. This third rectangle should be positioned such that it is 0.390573 units from the end and 0.314204 units from the side of the second rectangle.
+5. Mirror the third rectangle on the opposite side of the second rectangle, maintaining the same distances from the edges.
+6. Translate the entire assembly so that the base is centered vertically at its half height.

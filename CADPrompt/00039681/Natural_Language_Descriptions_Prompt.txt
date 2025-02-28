@@ -1,0 +1,2 @@
+ 
+Write Python code using CADQuery to create a short pipe featuring two distinct hole diameters. The diameter of the hole on one half of the pipe should be approximately 2/3 the diameter of the hole on the other half. Begin by sketching a cross-section representing the pipe with the smaller hole diameter and extrude it. Then, at the end of this pipe, sketch the cross-section for the second half of the pipe with the larger hole diameter and extrude it.
